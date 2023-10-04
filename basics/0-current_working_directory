@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# My first script
+# Serrano Bermudez, Jahaziel A.
+
+# Display Absolute Path
+
+realpath .
