@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find [directory] -type [d/f] -exec chmod [privilege] {} \;
+chmod _R a+x *
