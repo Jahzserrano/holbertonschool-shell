@@ -1,2 +1,2 @@
 #!/bin/bash
-find -path "./*" -prune -o  -type d | wc -li
+find . -mindepth 1 -maxdepth 5  -type d | wc -li
