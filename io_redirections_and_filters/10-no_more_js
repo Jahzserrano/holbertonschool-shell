@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.js | cd folder1.js | rm *.js
+rm -R *.js --one-file-system
